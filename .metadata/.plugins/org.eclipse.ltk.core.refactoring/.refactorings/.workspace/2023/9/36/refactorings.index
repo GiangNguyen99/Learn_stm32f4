@@ -1,0 +1,15 @@
+1693915756171	Delete resource '01'
+1693915879604	Delete resource '06_timebase'
+1693915884383	Delete resource '09_oc_timer2'
+1693915913705	Delete resource '01_usart2'
+1693916253899	Delete resource '08_test'
+1693916358353	Delete resource '08_test'
+1693916521063	Delete resource '08_usart2_it2/02_usart2_it.launch'
+1693916533226	Delete 8 resources
+1693916539484	Delete 2 resources
+1693917368744	Delete resource '08_inputcapture_timer2'
+1693917387603	Rename resource '08_usart2_it2'
+1693917478305	Delete resource '08_inputcapture_timer2/08_usart2_it2 Debug.launch'
+1693917488565	Delete resource '08_inputcapture_timer2/Debug/08_usart2_it2.map'
+1693953620134	Delete resource '11_inputcapture_button/08_inputcapture_timer2.launch'
+1693953635323	Delete 4 resources

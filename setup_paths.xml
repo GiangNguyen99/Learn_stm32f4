@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="s,S">
+
+</language>
+<language name="C Source File">
+<includepath>USB_HOST/App</includepath>
+<includepath>USB_HOST/Target</includepath>
+<includepath>Core/Inc</includepath>
+<includepath>Drivers/STM32F4xx_HAL_Driver/Inc</includepath>
+<includepath>Drivers/STM32F4xx_HAL_Driver/Inc/Legacy</includepath>
+<includepath>Middlewares/ST/STM32_USB_Host_Library/Core/Inc</includepath>
+<includepath>Middlewares/ST/STM32_USB_Host_Library/Class/CDC/Inc</includepath>
+<includepath>Drivers/CMSIS/Device/ST/STM32F4xx/Include</includepath>
+<includepath>Drivers/CMSIS/Include</includepath>
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="s,S">
+<macro>
+<name>DEBUG</name><value/>
+</macro>
+
+</language>
+<language name="C Source File">
+<macro>
+<name>DEBUG</name><value/>
+</macro>
+<macro>
+<name>USE_HAL_DRIVER</name><value/>
+</macro>
+<macro>
+<name>STM32F411xE</name><value/>
+</macro>
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+</cdtprojectproperties>

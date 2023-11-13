@@ -1,0 +1,10 @@
+01:30:02 **** Incremental Build of configuration Debug for project 10_pwm_timer2 ****
+make -j8 all 
+arm-none-eabi-size   10_pwm_timer2.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9772	     36	   1660	  11468	   2ccc	10_pwm_timer2.elf
+Finished building: default.size.stdout
+ 
+
+01:30:02 Build Finished. 0 errors, 0 warnings. (took 303ms)
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;08_inputcapture_timer2/02_usart2_it.ioc&apos; to &apos;08_inputcapture_timer2.ioc&apos;" description="Rename resource &apos;02_usart2_it.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="02_usart2_it.ioc" name="08_inputcapture_timer2.ioc" stamp="1693917495769" updateReferences="true"/>
+</session>

@@ -1,0 +1,41 @@
+1691319702433	Rename resource '04_pll_sysclk'
+1691394526660	Delete resource '06_timerbase_100ms'
+1691394765750	Delete resource '06_timebase_100ms'
+1691394974910	Delete resource '06_timebase_100ms'
+1691396160878	Delete 6 resources
+1691396169521	Delete 2 resources
+1691397781279	Delete resource '06_timebase_100ms'
+1691398095222	Delete 3 resources
+1691398108829	Delete 3 resources
+1691398642913	Delete 4 resources
+1691398653882	Delete resource '06_timer2/Core/Inc/stm32f4xx_it.h'
+1691399208159	Delete resource '06_timer2'
+1691399397366	Delete resource '06_timebase/USB_HOST'
+1691399409316	Delete resource '06_timebase/Middlewares'
+1691399435082	Delete 2 resources
+1691399444041	Delete 3 resources
+1691574022442	Delete resource '08_inputcapture_timer2/Drivers/STM32F4xx_HAL_Driver/STM32F4xx_HAL_Driver'
+1691580041524	Delete resource '09_outputcompare_timer2/06_timebase Debug.launch'
+1691580045325	Delete resource '09_outputcompare_timer2/07_timebase_IT Debug.launch'
+1691580049018	Delete resource '09_outputcompare_timer2/09_outputcompare_timer2 Debug.launch'
+1691581511748	Delete resource 'TH'
+1691582245569	Delete resource '09_outputcompare_timer2/Debug/06_timebase.elf'
+1691582258913	Delete 15 resources
+1691582301761	Delete resource '09_outputcompare_timer2/09_outputcompare_timer2 Debug (1).launch'
+1691595057566	Delete resource 'test'
+1691595307955	Delete resource '09_oc_timer2/USB_HOST'
+1691595812632	Delete resource '09_oc_timer2/Middlewares'
+1691600093384	Delete resource '09_oc_timer2/Debug/Middlewares'
+1691600589863	Delete resource 'test/Middlewares'
+1691600593686	Delete resource 'test/USB_HOST'
+1691602605983	Delete resource '09_outputcompare_timer2'
+1691602612231	Delete resource 'test'
+1691602876178	Delete resource '10_pwm_timer2/09_oc_timer2.ioc'
+1691604576992	Delete resource '10_pwm_timer2/09_oc_timer2 Debug.launch'
+1691606485274	Delete resource '10_pwm_timer2'
+1691606728567	Delete resource '09_oc_timer2/09_oc_timer2 Debug.launch'
+1691608043952	Delete resource '09_oc_timer2/Debug/09_oc_timer2.elf'
+1691608048808	Delete resource '09_oc_timer2/Debug/09_oc_timer2.bin'
+1691608053291	Delete resource '09_oc_timer2/Debug/09_oc_timer2.list'
+1691608056813	Delete resource '09_oc_timer2/Debug/09_oc_timer2.map'
+1691609002164	Delete resource '09_oc_timer2/Debug/09_oc_timer2.elf'

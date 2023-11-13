@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="ICFilter"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="ICFilter"/>
+			<item value="capture filter"/>
+			<item value="RCC_OSCILLATORTYPE_LSE"/>
+			<item value="RCC_MCO1SOURCE_LSE"/>
+			<item value="hsi"/>
+			<item value="Error_handler"/>
+			<item value="FLatency"/>
+			<item value="clk_init"/>
+			<item value="osc_init"/>
+			<item value="TIM3"/>
+			<item value="Clock_Init"/>
+			<item value="Osc_Init"/>
+			<item value="SYS_CLOCK_FREQ_120_MHZ"/>
+			<item value="htm2"/>
+			<item value="htimer2"/>
+		</list>
+		<list key="replacehistory">
+			<item value="Error_Handler"/>
+			<item value="flash_latency"/>
+			<item value="Clock_Init"/>
+			<item value="Osc_Init"/>
+			<item value="TIM2"/>
+			<item value="clk_init"/>
+			<item value="osc_init"/>
+			<item value="SYS_CLOCK_FREQ_100_MHZ"/>
+			<item value="htim2"/>
+			<item value="htm2"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1559"/>
+		<item key="DIALOG_Y_ORIGIN" value="354"/>
+		<item key="DIALOG_WIDTH" value="362"/>
+		<item key="DIALOG_HEIGHT" value="490"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

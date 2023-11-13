@@ -1,0 +1,20 @@
+17:52:55 **** Incremental Build of configuration Debug for project 04_pll_sysclk ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F411xE -c -I../USB_HOST/App -I../USB_HOST/Target -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/ST/STM32_USB_Host_Library/Core/Inc -I../Middlewares/ST/STM32_USB_Host_Library/Class/CDC/Inc -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "04_pll_sysclk.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\hoang\OneDrive - ut.edu.vn\Desktop\PROJECT\PROJECT MASTERING MCU\MCU2\04_pll_sysclk\STM32F411VETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="04_pll_sysclk.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 04_pll_sysclk.elf
+ 
+arm-none-eabi-size   04_pll_sysclk.elf 
+arm-none-eabi-objdump -h -S  04_pll_sysclk.elf  > "04_pll_sysclk.list"
+arm-none-eabi-objcopy  -O binary  04_pll_sysclk.elf  "04_pll_sysclk.bin"
+   text	   data	    bss	    dec	    hex	filename
+  10308	    120	   1664	  12092	   2f3c	04_pll_sysclk.elf
+Finished building: default.size.stdout
+ 
+Finished building: 04_pll_sysclk.bin
+ 
+Finished building: 04_pll_sysclk.list
+ 
+
+17:52:56 Build Finished. 0 errors, 0 warnings. (took 1s.304ms)
+
